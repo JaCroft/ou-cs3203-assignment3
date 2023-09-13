@@ -1,5 +1,6 @@
 #include <iostream>
 #include <array>
+#include <vector>
 
 using namespace std;
 
@@ -16,3 +17,5 @@ int addArray(int x[])
 
 	return sum;
 }
+
+//part 10 rebasing
